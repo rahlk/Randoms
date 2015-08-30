@@ -1,2 +1,2 @@
-# TO-DOs
-Used primarily as a to-do list. Managed using the issue reports.
+# My TO-DOs
+Managed using [Github Issues](https://github.com/rahlk/TO-DOs/issues).
