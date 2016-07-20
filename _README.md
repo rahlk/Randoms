@@ -20,7 +20,7 @@ Setting up Towel
   + We use anaconda by continuum.io (see [Why?](https://www.continuum.io/why-anaconda))
     - We won't need the entire distribution. [Download](http://conda.pydata.org/miniconda.html) & install a minimal version of anaconda.
   + Make sure you select add to PATH during install.
-  + Next, navigate to towel, and run `setup.bat`.
+  + Next, navigate to towel, and run `setup.bat`. This will install all the dependencies needed to run the sandbox.
 
 3. Running script:
   + Navigate to *src > site* and run `index.py`
