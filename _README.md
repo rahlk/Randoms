@@ -30,12 +30,18 @@ Setting up Towel
       Options:
         --debug   BOOLEAN    Flags: True/False. Render site in debug mode. Default True.
         --force   BOOLEAN    Flags: True/False. Create force injest documents to ES. Default False.
-                                  Atchung! Set TRUE only if injest.py has been change, otherwise 
-                                  several (unnecessary) injestions may occur. 
+                                  Atchung! Set TRUE only if injest.py has been changed, otherwise 
+                                  multiple (redundant) injestions may occur. 
         --port    INTEGER    Port to deploy the site on. Default 8000.
         --verbose BOOLEAN    Flags: True/False. Display all outputs to stdout. Default True.
       ```
   + If all is well, you'll be greeted by this:
       ![image](https://cloud.githubusercontent.com/assets/1433964/16996958/7aa4d72e-4e81-11e6-838f-da8b24e78c3c.png)
+
+4. The Interface:
+  + Fire up your browser and go to `http://localhost:8000/hello/`. You'll see a page like below:
+    ![image](https://cloud.githubusercontent.com/assets/1433964/16997126/1c3a89e4-4e82-11e6-8aa7-ee596ace709b.png)
+
+
   
     
